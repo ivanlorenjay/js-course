@@ -63,4 +63,21 @@ let money = null;
 let capacidad; // undefined
 let capacidad2 = undefined; // undefined
 
+// i need the necessary functions to display the data types in javascript ?
 
+// The 9 JavaScript data types are:
+
+// * **Number**
+// * **String**
+// * **Boolean**
+// * **Null**
+// * **Undefined**
+// * **Object**
+// * **Array**
+// * **Function**
+// * **Symbol**
+
+// You can use the `typeof` operator to display the data type of a variable. For example, the following code will display the data type of the variable `x`:
+
+var x = 123;
+console.log(typeof x); // "number"
